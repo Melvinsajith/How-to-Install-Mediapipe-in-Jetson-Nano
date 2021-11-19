@@ -1,1 +1,1 @@
-# How-to-Install-Mediapipe-in-Jetson-Nano
+# How to Install Mediapipe in Jetson Nano
