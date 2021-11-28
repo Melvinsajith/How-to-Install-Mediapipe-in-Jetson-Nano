@@ -1,3 +1,3 @@
-# How to Install Mediapipe in Jetson Nano
+# How to Install Mediapipe in Jetson Nano a and 
 
-In this 
+Here, I Will show how to install  install mediapipe in jetson nano and run a example program to make sure that it is working
