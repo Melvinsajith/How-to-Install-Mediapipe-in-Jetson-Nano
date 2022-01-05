@@ -16,4 +16,4 @@ Now the system is updated and ready to install mediapipe
 
 Step 2 -  Prerequisites and Dependencies - https://docs.nvidia.com/deeplearning/frameworks/install-tf-jetson-platform/index.html#prereqs
 
-Now we need to install the 
+Now we need to install the Prerequisites and Dependencies for mediapipe and 
