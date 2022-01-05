@@ -23,8 +23,8 @@ Now we need to install the Prerequisites and Dependencies for mediapipe and Tens
 
 1. Install system packages required by TensorFlow: -
       
-      sudo apt-get update
-      sudo apt-get install libhdf5-serial-dev hdf5-tools libhdf5-dev zlib1g-dev zip libjpeg8-dev liblapack-dev libblas-dev gfortran
+          sudo apt-get update
+          sudo apt-get install libhdf5-serial-dev hdf5-tools libhdf5-dev zlib1g-dev zip libjpeg8-dev liblapack-dev libblas-dev gfortran
 
 2. Install and upgrade pip3:
 
