@@ -39,6 +39,10 @@ Now we need to install the Prerequisites and Dependencies for mediapipe and Tens
 Step 3 - Now we need to install opencv-python :
 
    sudo apt-get install python3-opencv 
+   
+   import cv2 as cv
+   
+   print(cv.__version__)
 
 Now all the Prerequisites and Dependencies are installed 
 
