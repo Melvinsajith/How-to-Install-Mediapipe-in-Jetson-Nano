@@ -28,8 +28,8 @@ Now we need to install the Prerequisites and Dependencies for mediapipe and Tens
 
 2. Install and upgrade pip3:
 
-      sudo apt-get install python3-pip
-      sudo pip3 install -U pip testresources setuptools==49.6.0
+          sudo apt-get install python3-pip
+          sudo pip3 install -U pip testresources setuptools==49.6.0
       
 3.Install the Python package dependencies:
 
