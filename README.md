@@ -62,13 +62,15 @@ Now let's Install it from the source code:
 
     sudo apt-get install -y libopencv-core-dev  libopencv-highgui-dev libopencv-calib3d-dev libopencv-features2d-dev libopencv-imgproc-dev libopencv-video-dev
     sudo chmod 744 setup_opencv.sh
-    setup_opencv.sh
+    ./setup_opencv.sh
 
 Step 5 
 
     sudo pip3 install opencv_contrib_python
     git clone https://github.com/PINTO0309/mediapipe-bin
     cd mediapipe-bin
+    
+    sudo apt install curl
 
 
     ./v0.8.5/numpy119x/mediapipe-0.8.5_cuda102-cp36-cp36m-linux_aarch64_numpy119x_jetsonnano_L4T32.5.1_download.sh
