@@ -73,8 +73,8 @@ Step 5
     sudo apt install curl
 
 
-    ./v0.8.5/numpy119x/mediapipe-0.8.5_cuda102-cp36-cp36m-linux_aarch64_numpy119x_jetsonnano_L4T32.5.1_download.sh
-    sudo pip3 install numpy-1.19.4-cp36-none-manylinux2014_aarch64.whl mediapipe-0.8.5_cuda102-cp36-none-linux_aarch64.whl
+    so guys the medipipe-bin has changed so I will fix the problem soon , 
+    The installation will not work now , so please wait some time 
     pip3 install dataclasses 
 
 
