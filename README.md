@@ -72,7 +72,10 @@ Step 5
 
     so guys the medipipe-bin has changed so the installation is little  different from the video only this step has some change , 
          Do as I say in this github 
-        Now first you need to download a file from this link - https://drive.google.com/file/d/11sAQQK0oC8_zKbmsC-qRC_HW5S5Br-Ea/view?usp=sharing
+        Now first you need to download a file from this link - 
+        
+        https://drive.google.com/file/d/11sAQQK0oC8_zKbmsC-qRC_HW5S5Br-Ea/view?usp=sharing
+        
         After downloading the file unzip it by going to where it is been download in your jetson , mostly in the Downloads folder 
         
        cd Downloads
