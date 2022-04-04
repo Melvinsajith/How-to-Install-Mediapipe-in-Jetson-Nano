@@ -7,7 +7,7 @@ The normal way to install mediapipe in Linux is not working
 
 So I have found a way to install mediapipe from source code, This way of installing is a little bit hard but it works very well in the jetsons.
 
-I understand that the GitHub of mediapipe-bin has changed and you guys where getting errors while installing mediapipe , so I have fixed the error and changed the last step in my Github.
+I understand that the GitHub of mediapipe-bin has changed and you guys were getting errors while installing mediapipe , so I have fixed the error and changed the last step in my Github.
 
 so now there should be no error and you can get mediapipe running in the jetson with no problem.
 
