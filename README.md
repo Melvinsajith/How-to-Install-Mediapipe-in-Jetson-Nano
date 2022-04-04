@@ -67,17 +67,31 @@ Now let's Install it from the source code:
 Step 5 
 
     sudo pip3 install opencv_contrib_python
-    git clone https://github.com/PINTO0309/mediapipe-bin
-    cd mediapipe-bin
-    
     sudo apt install curl
 
 
-    so guys the medipipe-bin has changed so I will fix the problem soon , 
-    The installation will not work now , so please wait some time 
-    pip3 install dataclasses 
+    so guys the medipipe-bin has changed so the installation is little  different from the video only this step has some change , 
+         Do as I say in this github 
+        Now first you need to download a file from this link - https://drive.google.com/file/d/11sAQQK0oC8_zKbmsC-qRC_HW5S5Br-Ea/view?usp=sharing
+        After downloading the file unzip it by going to where it is been download in your jetson , mostly in the Downloads folder 
+        
+       cd Downloads
+       
+       sudo apt install unzip
+        
+       unzip mediapipe-0.8.5_cuda102-cp36-cp36m-linux_aarch64.zip
 
+   Then run 
 
+       sudo pip3 install mediapipe-0.8.5_cuda102-cp36-cp36m-linux_aarch64.whl
+
+       pip3 install numpy    
+       pip3 install dataclasses
+
+  This is the new way to install mediapipe in jetson
+
+    now continue with the video and complete the installation 
+    Also do not forget to subscribe to my channel.
 
 Now all installation is completed , lets try to run a example program to make sure that it is working properly 
 
