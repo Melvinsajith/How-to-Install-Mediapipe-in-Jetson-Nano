@@ -95,6 +95,8 @@ https://drive.google.com/file/d/11sAQQK0oC8_zKbmsC-qRC_HW5S5Br-Ea/view?usp=shari
 
     now continue with the video and complete the installation 
     Also do not forget to subscribe to my channel.
+    
+https://www.youtube.com/channel/UC0Nm0O9WIpnPzETvmGoI0jA/
 
 Now all installation is completed , lets try to run a example program to make sure that it is working properly 
 
