@@ -1,5 +1,7 @@
 # How to Install Mediapipe in Jetson Nano 2GB, 4GB, Jetson Xavier NX
 
+Video Link - 
+https://youtu.be/RAfkrusLnkM
 
 Here, I Will show how to install MediaPipe in jetson nano and run an example program to make sure that it is working
 
