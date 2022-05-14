@@ -76,25 +76,27 @@ Step 5
     sudo apt install curl
 
 
-    so guys the medipipe-bin has changed so the installation is little  different from the video only this step has some change , 
+    so guys the medipipe-bin has changed so the installation is little  different from the video only this step has some changes , 
          Do as I say in this github 
-        Now first you need to download a file from this link - 
+        Now first you need to download this folder of medipipe-bin from this link - 
         
-https://drive.google.com/file/d/11sAQQK0oC8_zKbmsC-qRC_HW5S5Br-Ea/view?usp=sharing
-        
-        After downloading the file unzip it by going to where it is been download in your jetson , mostly in the Downloads folder 
+https://drive.google.com/file/d/1lHr9Krznst1ugLF_ElWGCNi_Y4AmEexx/view?usp=sharing
+
+        After downloading the zip file unzip it by going to where it is been download in your jetson , mostly in the Downloads folder 
         
        cd Downloads
        
        sudo apt install unzip
         
-       unzip mediapipe-0.8.5_cuda102-cp36-cp36m-linux_aarch64.zip
+       unzip mediapipe-bin.zip
 
-   Then run 
+Then run 
 
-       sudo pip3 install mediapipe-0.8.5_cuda102-cp36-cp36m-linux_aarch64.whl
+       cd mediapipe-bin
+       
+       sudo pip3 install numpy-1.19.4-cp36-none-manylinux2014_aarch64.whl mediapipe-0.8.5_cuda102-cp36-none-linux_aarch64.whl
 
-       pip3 install numpy    
+
        pip3 install dataclasses
 
   This is the new way to install mediapipe in jetson
